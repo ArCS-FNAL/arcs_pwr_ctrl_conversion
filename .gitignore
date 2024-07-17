@@ -30,4 +30,6 @@ fp-info-cache
 
 # Additional
 .DS_Store
+plots/
+*.zip
 
